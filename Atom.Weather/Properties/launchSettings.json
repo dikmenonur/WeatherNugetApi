@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Atom.Weather": {
+      "commandName": "Project"
+    }
+  }
+}

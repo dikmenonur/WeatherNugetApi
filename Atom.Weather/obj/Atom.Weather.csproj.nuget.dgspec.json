@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Git\\atom.weather\\Atom.Weather\\Atom.Weather.csproj": {}
+  },
+  "projects": {
+    "D:\\Git\\atom.weather\\Atom.Weather\\Atom.Weather.csproj": {
+      "version": "1.0.9",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\atom.weather\\Atom.Weather\\Atom.Weather.csproj",
+        "projectName": "Atom.Weather",
+        "projectPath": "D:\\Git\\atom.weather\\Atom.Weather\\Atom.Weather.csproj",
+        "packagesPath": "C:\\Users\\Onur Dikmen\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\atom.weather\\Atom.Weather\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Onur Dikmen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[0.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

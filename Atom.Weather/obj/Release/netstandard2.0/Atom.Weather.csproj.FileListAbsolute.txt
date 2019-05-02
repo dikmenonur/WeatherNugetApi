@@ -1,0 +1,12 @@
+D:\AtomTFS\Atom.Weather\Atom.Weather\bin\Release\netstandard2.0\Config.json
+D:\AtomTFS\Atom.Weather\Atom.Weather\bin\Release\netstandard2.0\Atom.Weather.deps.json
+D:\AtomTFS\Atom.Weather\Atom.Weather\bin\Release\netstandard2.0\Atom.Weather.dll
+D:\AtomTFS\Atom.Weather\Atom.Weather\bin\Release\netstandard2.0\Atom.Weather.pdb
+D:\AtomTFS\Atom.Weather\Atom.Weather\obj\Release\netstandard2.0\Atom.Weather.csprojAssemblyReference.cache
+D:\AtomTFS\Atom.Weather\Atom.Weather\obj\Release\netstandard2.0\Atom.Weather.Properties.Resources.resources
+D:\AtomTFS\Atom.Weather\Atom.Weather\obj\Release\netstandard2.0\Atom.Weather.csproj.GenerateResource.cache
+D:\AtomTFS\Atom.Weather\Atom.Weather\obj\Release\netstandard2.0\Atom.Weather.csproj.CoreCompileInputs.cache
+D:\AtomTFS\Atom.Weather\Atom.Weather\obj\Release\netstandard2.0\Atom.Weather.AssemblyInfoInputs.cache
+D:\AtomTFS\Atom.Weather\Atom.Weather\obj\Release\netstandard2.0\Atom.Weather.AssemblyInfo.cs
+D:\AtomTFS\Atom.Weather\Atom.Weather\obj\Release\netstandard2.0\Atom.Weather.dll
+D:\AtomTFS\Atom.Weather\Atom.Weather\obj\Release\netstandard2.0\Atom.Weather.pdb

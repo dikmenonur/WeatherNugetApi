@@ -1,0 +1,7 @@
+﻿{
+  "apiID": "9ae9657f2b20408e9fc73051192704",
+  "Location": "Ordu",
+  "SiteLocation": "Boztepe Macera Parkı",
+  "WeatherSymbol": "℃",
+  "WeatherUrl": "http://api.apixu.com/v1/current.json?key={0}&q={1}"
+}
